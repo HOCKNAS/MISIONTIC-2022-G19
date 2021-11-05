@@ -11,3 +11,6 @@
 
  [FLUJO DE TRABAJO SPRINT 6 SCRUM](https://trello.com/b/y92EmE5m)
 
+## FRONTEND
+
+Este proyecto fue realizado utilizando React JS. Se crearon diferentes componentes según las necesidades de diseño de la página.
