@@ -19,4 +19,12 @@ El backend se desarrolló utilizando un patrón de diseño MVC (Modelo - Vista -
 
 Se realizó utilizando ExpressJS
 
+Se requiere configurar las siguientes variables:
+
+`PORT` El puerto de escucha para las conexiones.
+
+`DATABASE_URL` URL de la base de datos de MONGO.
+
+`DATABASE_NAME` Nombre de la base de datos.
+
 
