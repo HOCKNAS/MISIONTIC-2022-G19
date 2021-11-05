@@ -11,3 +11,12 @@
 
  [FLUJO DE TRABAJO SPRINT 6 SCRUM](https://trello.com/b/y92EmE5m)
 
+
+
+## BACKEND
+
+El backend se desarrolló utilizando un patrón de diseño MVC (Modelo - Vista - Controlador)
+
+Se realizó utilizando ExpressJS
+
+
