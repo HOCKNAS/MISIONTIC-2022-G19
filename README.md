@@ -9,5 +9,5 @@
 
 ## TRELLO
 
- [FLUJO DE TRABAJO STRINT 6 SCRUM](https://trello.com/b/y92EmE5m)
+ [FLUJO DE TRABAJO SPRINT 6 SCRUM](https://trello.com/b/y92EmE5m)
 
