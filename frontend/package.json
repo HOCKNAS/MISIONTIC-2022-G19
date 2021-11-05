@@ -6,7 +6,6 @@
 	"repository": "https://github.com/HOCKNAS/MISIONTIC-2022-G19.git",
 	"author": "GRUPO HABILITACION",
 	"license": "MIT",
-	"type": "module",
 	"scripts": {
 		"start": "craco start",
 		"build": "craco build",
