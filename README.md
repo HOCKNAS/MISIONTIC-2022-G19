@@ -5,8 +5,8 @@
     
     - Santiago Chacón Sora santiago.chacon99@gmail.com de Boyacá, Rol / Developer
     - Lissette Sierra Bonilla lizzethe19@gmail.com de Bogota, Rol / Scrum Master
-    - Alejandro Granada Ospina collerx100pre@gmail.com de Medellin, Rol / Produect Owner
-
+    - Alejandro Granada Ospina collerx100pre@gmail.com de Medellin, Rol / Product Owner
+    - Luis Miguel Tobar Betancourt migueltobar10@gmail.com de Jamundí, Rol / Analyst
 
 
 ## TRELLO ===============================
