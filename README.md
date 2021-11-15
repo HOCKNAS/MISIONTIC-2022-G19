@@ -8,6 +8,15 @@
     - Alejandro Granada Ospina collerx100pre@gmail.com de Medellin, Rol / Product Owner
     - Luis Miguel Tobar Betancourt migueltobar10@gmail.com de Jamundí, Rol / Analyst
 
+## HEROKU ===============================
+
+ [LINK PARA ABRIR APP EN HEROKU](https://mision-tic-2022-habilitacion-2.herokuapp.com/)
+ 
+        Administrador:      
+        hocknas@yopmail.com
+        Ab12345@
+        
+
 
 ## TRELLO ===============================
 
