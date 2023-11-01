@@ -23,7 +23,7 @@ function App() {
 		<Auth0Provider
 			domain='misiontic-santiago.us.auth0.com'
 			clientId='tp5sSqNoqmD2tstNkWKkP00GAuPZBRzy'
-			redirectUri='http://localhost:3000/admin/perfil/'
+			redirectUri='https://sena.hocknas.co/admin/perfil/'
 			audience='SECRET IDENTIFIER'
 		>
 			<div className='App'>

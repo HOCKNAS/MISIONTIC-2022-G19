@@ -7,7 +7,7 @@ import ComponentePrivado from '../components/ComponentePrivado';
 
 const Navbar = () => {
 	const { user, logout } = useAuth0();
-	const urllogout = "http://localhost:3000"
+	const urllogout = "https://sena.hocknas.co"
 
 	//Creamos una funcion para el cierre de sesion y eliminamos el token del LocalStorage
 	const cerrarSesion = () => {

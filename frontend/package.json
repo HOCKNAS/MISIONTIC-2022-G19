@@ -1,10 +1,10 @@
 {
 	"name": "frontend",
 	"version": "1.0.0",
-	"description": "Mision TIC 2022 Grupo Habilitación: FRONTEND",
+	"description": "SENA ADSI 2023 FRONTEND",
 	"main": "index.js",
 	"repository": "https://github.com/HOCKNAS/MISIONTIC-2022-G19.git",
-	"author": "GRUPO HABILITACION",
+	"author": "SANTIAGO CHACON",
 	"license": "MIT",
 	"scripts": {
 		"start": "craco start",

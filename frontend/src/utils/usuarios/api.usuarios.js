@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 //Definimos una función para la ruta de nuestra API
-const url = "http://localhost:5000";
+const url = "https://api-sena.hocknas.co";
 
 //Consultamos el Token almacenado en el LocalStorage
 const traerToken = ()=>{

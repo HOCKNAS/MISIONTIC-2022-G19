@@ -11,7 +11,7 @@ const AdminLayout = ({ children }) => {
 	const [cargandoInformacionUsuario, setCargandoInformacionUsuario] = useState(false);
 	const { setUserData } = useUser();
 
-	const urllogout = "http://localhost:3000"
+	const urllogout = "https://sena.hocknas.co"
 
 	useEffect(() => {
 		//Creamos una función para obtener un token desde Auth0

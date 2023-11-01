@@ -1,10 +1,10 @@
 {
 	"name": "backend",
 	"version": "1.0.0",
-	"description": "Mision TIC 2022 Grupo Habilitación: BACKEND",
+	"description": "SENA ADSI 2023 BACKEND",
 	"main": "index.js",
 	"repository": "https://github.com/HOCKNAS/MISIONTIC-2022-G19.git",
-	"author": "GRUPO HABILITACION",
+	"author": "SANTIAGO CHACON",
 	"license": "MIT",
 	"type": "module",
 	"scripts": {
